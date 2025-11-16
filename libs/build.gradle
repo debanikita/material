@@ -28,7 +28,7 @@ def srcDirs = [
 
 android {
     namespace 'io.github.debanikita'
-  //  compileSdk 35
+    compileSdk 30
     
     sourceSets {
         main {
